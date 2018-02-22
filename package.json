@@ -1,0 +1,19 @@
+{
+  "name": "jquery-fleximages",
+  "version": "1.0.0",
+  "description": "jQuery-flexImages ===================",
+  "main": "jquery.flex-images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerzey/jQuery-flexImages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerzey/jQuery-flexImages/issues"
+  },
+  "homepage": "https://github.com/tylerzey/jQuery-flexImages#readme"
+}
